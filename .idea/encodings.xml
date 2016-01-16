@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/app/clientinfo/ClientinfoAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/app/clientinfo/ClientinfoItem.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/app/clientinfo/SquareLayout.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/database/Bingan.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/database/BinganDao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/database/DaoMaster.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/java/com/jiayusoft/mobile/utils/database/DaoSession.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/drawable-hdpi/ic_drawer.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/drawable-hdpi/icon_main_bg_selected.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/drawable-hdpi/icon_main_bg_unselected.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/drawable-hdpi/mainpagebg.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/drawable/bg_main_icon.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/layout/clientinfo_item.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bingan/src/main/res/layout/dialog_time.xml" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
